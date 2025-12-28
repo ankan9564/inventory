@@ -110,13 +110,14 @@ The UI provides:
 • Product list view  
 • Stock visibility  
 • Low-stock visual alerts (highlighted in red)
+https://github.com/ankan9564/inventory/blob/master/inventorydashboard.jpg
 ## 📸 Additional Evidence Screenshots
 
 **Low Stock Email Notification**
-![Low Stock Email Alert](screenshots/low-stock-email.png)
+https://github.com/ankan9564/inventory/blob/master/mailscreenshot.jpg
 
 **Stock Update API Trigger**
-![Stock Update API](screenshots/stock-update-test.png)
+low_stock_alertail.jpg
 
 
 ## 🧾 API Demonstration (Working Outputs)
