@@ -102,7 +102,7 @@ The APIs were fully tested using Postman to validate:
 • Error handling behavior  
 
 **Postman Collection Link**
-👉 https://your-postman-link-here
+👉 https://ankanmondal.postman.co/workspace/My-Workspace~6a862d84-0e65-41e8-8711-123e3849a903/collection/46435467-6cdebad6-7fd5-4f03-b36d-ef22da617e65?action=share&source=copy-link&creator=46435467
 ---
 ## 🖥 UI Dashboard Evidence (Working Screenshot)
 A basic UI dashboard was implemented using Thymeleaf + Bootstrap.
