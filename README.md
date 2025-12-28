@@ -93,6 +93,31 @@ Stock History Tracks
 • Prevents negative stock  
 
 ---
+## 🧪 API Testing & Validation (Postman Evidence)
+
+The APIs were fully tested using Postman to validate:
+• Request/response flow  
+• Stock validation rules  
+• Automation triggers  
+• Error handling behavior  
+
+**Postman Collection Link**
+👉 https://your-postman-link-here
+---
+## 🖥 UI Dashboard Evidence (Working Screenshot)
+A basic UI dashboard was implemented using Thymeleaf + Bootstrap.
+The UI provides:
+• Product list view  
+• Stock visibility  
+• Low-stock visual alerts (highlighted in red)
+## 📸 Additional Evidence Screenshots
+
+**Low Stock Email Notification**
+![Low Stock Email Alert](screenshots/low-stock-email.png)
+
+**Stock Update API Trigger**
+![Stock Update API](screenshots/stock-update-test.png)
+
 
 ## 🧾 API Demonstration (Working Outputs)
 
@@ -300,4 +325,15 @@ This project successfully meets assignment requirements:
 • Error handling
 • Basic authentication
 • Unit tests
+## 📌 API Demonstration Summary
+
+| Feature | API | Tested |
+|--------|-----|-------|
+| Add Product | POST /api/products | ✔ Successful |
+| Get Product List | GET /api/products | ✔ Working |
+| Stock IN | POST /api/products/stock | ✔ Validated |
+| Prevent Negative Stock | OUT transaction | ✔ Blocked |
+| Low Stock Alert | Stock threshold case | ✔ Triggered |
+| Email Notification | Low stock event | ✔ Sent |
+| Reorder Suggestion | GET /reorder-suggestion | ✔ Generated |
 
